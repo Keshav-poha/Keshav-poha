@@ -1,7 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Keshav<br>I am an Information Technology student at NSUT with a deep-seated obsession for the intersection of logic and aesthetics. <br>When I’m not inside a code editor, I’m likely behind a camera lens capturing memories.
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshav-ku/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:keshav.poha@gmail.com) 
 
